@@ -1,0 +1,2 @@
+# DisFping
+Distributed Fping routine
